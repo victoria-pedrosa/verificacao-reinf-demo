@@ -1,6 +1,6 @@
-# Verificacao Reinf
+# Demonstração — Verificação da REINF
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de verificação automática da EFD-REINF — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Verificar se as empresas tinham movimento para a REINF exigia olhar os CSVs de prestado e tomado de cada uma.
